@@ -12,7 +12,7 @@
 **Team Size:** 30+ Creative Innovators  
 **Industry:** Multi-Sector Creative Ecosystem (Technology, Media, Education, Design, Fashion, and Marketing)  
 **Website:** [www.creativefreaks.global](http://www.creativefreaks.global)  
-**Email:** techlab.cf@gamil.com  
+**Email:** techlab.cf@gmail.com  
 
 ---
 
@@ -175,7 +175,7 @@ We bring together artists, engineers, storytellers, and dreamers to build a worl
 
 **Join the Freak Revolution.**  
 Let’s create something extraordinary together.  
-📩 techlab.cf@gamil.com 
+📩 techlab.cf@gmail.com 
 🌍 [www.creativefreaks.global](http://www.creativefreaks.global)
 
 ---
