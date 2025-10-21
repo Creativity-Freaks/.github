@@ -12,7 +12,7 @@
 **Team Size:** 30+ Creative Innovators  
 **Industry:** Multi-Sector Creative Ecosystem (Technology, Media, Education, Design, Fashion, and Marketing)  
 **Website:** [www.creativefreaks.global](http://www.creativefreaks.global)  
-**Email:** connect@creativefreaks.global  
+**Email:** techlab.cf@gmail.com  
 
 ---
 
