@@ -7,7 +7,7 @@
 **Company Name:** Creativity Freaks  
 **Type:** Group of Companies  
 **Founded:** January 2024  
-**Founder & CEO:** Hridoy Chandra Sarker  
+<!-- **Founder & CEO:** Hridoy Chandra Sarker  -->
 **Headquarters:** Dhaka, Bangladesh (Global Operations)  
 **Team Size:** 30+ Creative Innovators  
 **Industry:** Multi-Sector Creative Ecosystem (Technology, Media, Education, Design, Fashion, and Marketing)  
