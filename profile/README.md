@@ -11,7 +11,7 @@
 **Headquarters:** Dhaka, Bangladesh (Global Operations)  
 **Team Size:** 30+ Creative Innovators  
 **Industry:** Multi-Sector Creative Ecosystem (Technology, Media, Education, Design, Fashion, and Marketing)  
-**Website:** [www.creativefreaks.global](http://www.creativefreaks.global)  
+**Website:** [www.creativefreaks.global](http://www.creativityfreaks.global)  
 **Email:** techlab.cf@gmail.com  
 
 ---
@@ -176,7 +176,7 @@ We bring together artists, engineers, storytellers, and dreamers to build a worl
 **Join the Freak Revolution.**  
 Let’s create something extraordinary together.  
 📩 connect@creativefreaks.global  
-🌍 [www.creativefreaks.global](http://www.creativefreaks.global)
+🌍 [www.creativefreaks.global](http://www.creativityfreaks.global)
 
 ---
 
