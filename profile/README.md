@@ -132,36 +132,6 @@ Digital storytelling that amplifies brands and drives engagement.
 
 ---
 
-## 🏆 Achievements & Milestones
-- **2024:** Launched *FreakFlow* with 10,000+ downloads in 6 months.  
-- **2025:** Conducted 8 global creative workshops with 500+ participants.  
-- **Awards:** Nominated for *Innovative Startup of the Year* at Asia Creative Awards 2025.  
-- **Partnerships:** Collaborated with tech firms and universities in Bangladesh & India.
-
----
-
-## 🚀 Future Roadmap
-| Year | Objective |
-|------|------------|
-| **2026** | Launch CF hubs in South Asia & Europe |
-| **2027** | Release *FreakHub* – a global platform for creative collaboration |
-| **2028** | Expand CF Academy online to reach 10,000 learners |
-| **2030** | Become a global creative powerhouse in 100+ countries |
-
----
-
-## 🎨 Brand Identity
-- **Logo Concept:** Modern "CF" monogram with dynamic brushstroke energy — symbolizing creativity and innovation.  
-- **Color Palette:**  
-  - Neon Green `#00FF99` (Energy)  
-  - Deep Black `#1A1A1A` (Depth)  
-  - Rebel Red `#FF2E63` (Passion)  
-  - Pure White `#FFFFFF` (Clarity)  
-- **Typography:** Montserrat (Bold, Sans-Serif)  
-- **Tagline:** *“Where Creativity Meets Technology”*
-
----
-
 ## 💬 Founder’s Note
 > “Creativity Freaks was born from a dream — to make creativity limitless and technology human.  
 > Our mission is to inspire a generation that thinks boldly, acts passionately, and creates fearlessly.”  
